@@ -1,6 +1,6 @@
 {
 	"name": "vsc-gtrans-cn",
-	"displayName": "vsc-gtrans-cn",
+	"displayName": "Google translate to cn",
 	"description": "A extension translating your selection from English to Chinese.",
 	"version": "0.0.1",
 	"engines": {
